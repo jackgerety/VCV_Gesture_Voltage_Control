@@ -19,10 +19,10 @@ The python script included in this repo will use mediapipe hand tracking and key
 - A drag down menu to select the audio output will appear upon clicking on the middle menu of the box
 ![Screenshot 2025-02-07 130048](https://github.com/user-attachments/assets/3c25cdd9-5dae-4493-9e31-6722fab434ca)
 3. Enable cvOSCcv connection
-- Find the cvOSCcv plugin/box on the screen
-- click on master config to show OSC configuration
+Find the cvOSCcv plugin/box on the screen
+click on master config to show OSC configuration
 ![showConfig](https://github.com/user-attachments/assets/9be99779-b28f-4820-936a-2ecdb3a8a416)
-- click on enable to allow UDP connection over local network
+click on enable to allow UDP connection over local network
 ![enableConnection](https://github.com/user-attachments/assets/a8e10b6b-a8c9-40c5-9c22-86c0990407bf)
 4. Set up web camera
 - In the python script there should be a line that says:
