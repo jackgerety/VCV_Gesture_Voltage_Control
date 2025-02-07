@@ -2,13 +2,13 @@
 ## Description
 The python script included in this repo will use mediapipe hand tracking and keypoint detection to make turning vcv rack knobs easier. Signals from the coordinates of your index finger will determine how far two knobs are turned: the reverb mix knob for plateau and cutoff frequency knob for the vcf filter.
 ## Dependencies to install:
-python dependencies with pip:
+###python dependencies with pip:
 - pip install python-osc
 - pip install opencv-python 
 - pip install mediapipe 
-software required:
+###software required:
 - vcv rack
-necessary vcv rack modules (that aren't included by default. they are free though):
+###necessary vcv rack modules (that aren't included by default. they are free though):
 - Entrian Player: Timeline
 - trowasoft cvOSCcv
 - Plateau
