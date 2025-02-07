@@ -19,6 +19,7 @@ The python script included in this repo will use mediapipe hand tracking and key
 - A drag down menu to select the audio output will appear upon clicking on the middle menu of the box
 ![Screenshot 2025-02-07 130048](https://github.com/user-attachments/assets/3c25cdd9-5dae-4493-9e31-6722fab434ca)
 3. Enable cvOSCcv connection
+
 Find the cvOSCcv plugin/box on the screen
 click on master config to show OSC configuration
 
