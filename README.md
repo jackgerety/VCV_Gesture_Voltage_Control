@@ -35,6 +35,7 @@ cap = cv2.VideoCapture(0)
 - When 0 is passed to cv2.VideoCapture() as shown, the first available camera will be used. If you are running this on a laptop with a built-in camera, then the program will use the feed from that camera. If you don't have a built in camera, then the feed from whatever webcam you connect to your laptop will be used. If you have a built-in camera but want to use an external webcam, then you pass 1, 2, 3, ... and so on depending on which external webcam you want to use. If you are only using one other external webcam, you likely will need to pass 1:
 
 cv2.VideoCapture(1)
+
 5. Run python script as is in whichever terminal you are using:
 
 <example_shell> python osc.py
