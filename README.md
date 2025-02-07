@@ -21,9 +21,13 @@ The python script included in this repo will use mediapipe hand tracking and key
 3. Enable cvOSCcv connection
 Find the cvOSCcv plugin/box on the screen
 click on master config to show OSC configuration
+
 ![showConfig](https://github.com/user-attachments/assets/9be99779-b28f-4820-936a-2ecdb3a8a416)
+
 click on enable to allow UDP connection over local network
+
 ![enableConnection](https://github.com/user-attachments/assets/a8e10b6b-a8c9-40c5-9c22-86c0990407bf)
+
 4. Set up web camera
 - In the python script there should be a line that says:
 cap = cv2.VideoCapture(0)
