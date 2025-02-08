@@ -28,7 +28,7 @@ click on master config to show OSC configuration
 
 Make Sure Channel Names match this screen (change /ch/1 to /cut/off and change /ch/2 to /mix/verb):
 
-![47477b7c-9839-4365-9173-1bdfebd04ac9](https://github.com/user-attachments/assets/142254b6-82da-49e1-8554-b1b1391359b6)
+![channel_name](https://github.com/user-attachments/assets/015ab8f2-b3c9-4d5e-a131-4254aa7a97cb)
 
 click on enable to allow UDP connection over local network
 
