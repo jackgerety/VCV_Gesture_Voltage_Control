@@ -29,7 +29,7 @@ click on enable to allow UDP connection over local network
 
 ![enableConnection](https://github.com/user-attachments/assets/a8e10b6b-a8c9-40c5-9c22-86c0990407bf)
 
-yor python script then should be able to send osc messages to the cvOSCcv plugin after this step. if it doesn't, it might be because there is a firewall blocking it. for example, this might not work on your university wifi since it is more strict what communication is allowed. I used my mobile hotspot to test it and it worked fine. 
+your python script then should be able to send osc messages to the cvOSCcv plugin after this step. if it doesn't, it might be because there is a firewall blocking it. for example, this might not work on your university wifi since it is more strict what communication is allowed. I used my mobile hotspot to test it and it worked fine. 
 
 4. Set up web camera
 - In the python script there should be a line that says:
