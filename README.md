@@ -21,9 +21,14 @@ The python script included in this repo will use mediapipe hand tracking and key
 3. Enable cvOSCcv connection
 
 Find the cvOSCcv plugin/box on the screen
+
 click on master config to show OSC configuration
 
 ![showConfig](https://github.com/user-attachments/assets/9be99779-b28f-4820-936a-2ecdb3a8a416)
+
+Make Sure Channel Names match this screen (change /ch/1 to /cut/off and change /ch/2 to /mix/verb):
+
+![47477b7c-9839-4365-9173-1bdfebd04ac9](https://github.com/user-attachments/assets/142254b6-82da-49e1-8554-b1b1391359b6)
 
 click on enable to allow UDP connection over local network
 
